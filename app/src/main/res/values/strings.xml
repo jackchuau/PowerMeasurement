@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PowerMeasurement</string>
+    <string name="button_name">Battery Status</string>
+    <string name="test_button">Begin Test</string>
+</resources>
